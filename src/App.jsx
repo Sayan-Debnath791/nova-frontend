@@ -84,7 +84,7 @@ function App() {
       <main>
         <section id="home" className="hero">
           <div className="container hero-inner">
-            <h1>Simple Things. Better Living.😊</h1>
+            <h1>Simple Things. Better Living.</h1>
             <p>Discover thoughtfully designed products made for everyday life.</p>
             <a href="#products" className="btn-primary">Explore Products</a>
             {greeting && <span className="visually-hidden">{greeting}</span>}
